@@ -1,4 +1,4 @@
-This code demonstrates the SUS attack on maliciously-generated parameters for the RSA PRG, as described in our paper, ["On the Possibility of a Backdoor in the Micali-Schnorr Generator"](https://ia.cr/2023/TBD)
+This code demonstrates the SUS attack on maliciously-generated parameters for the RSA PRG, as described in our paper, ["On the Possibility of a Backdoor in the Micali-Schnorr Generator"](https://ia.cr/2023/440)
 
 To carry out the SUS attack using the 1024-bit example parameters, run `sage sus_demo.py`.
 

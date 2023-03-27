@@ -1,4 +1,4 @@
-This repo contains example code to accompany our paper ["On the Possibility of a Backdoor in the Micali-Schnorr Generator"](https://ia.cr/2023/TBD)
+This repo contains example code to accompany our paper ["On the Possibility of a Backdoor in the Micali-Schnorr Generator"](https://ia.cr/2023/440)
 
 `nothing_up_my_sleeve.py` verifies the "Nothing up my sleeve" parameters for the Bad-e attack on MS PRG from section A.4.
 
